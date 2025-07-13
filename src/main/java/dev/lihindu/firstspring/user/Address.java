@@ -1,4 +1,10 @@
 package dev.lihindu.firstspring.user;
 
-public record Address() {
+public record Address(
+        String street,
+        String suite,
+        String city,
+        String zipcode,
+        Geo geo
+) {
 }
