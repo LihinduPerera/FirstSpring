@@ -1,6 +1,6 @@
 package dev.lihindu.firstspring.user;
 
-// To do user crud using https://jsonplaceholder.typicode.com/
+// To do user crud using a public api https://jsonplaceholder.typicode.com/
 // Getting users from https://jsonplaceholder.typicode.com/users
 //    Example User : {
 //        "id": 1,
